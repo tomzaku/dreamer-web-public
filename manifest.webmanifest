@@ -1,1 +1,1 @@
-{"name":"@dreamer/web","short_name":"@dreamer/web","start_url":"/","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/"}
+{"name":"Dreamer","short_name":"Dreamer","start_url":"/","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/","description":"Target your goals","icons":[{"src":"logo/dreamer.svg","sizes":"any"},{"src":"icon/dreamer.webp","sizes":"48x48","type":"image/webp"},{"src":"icon/hd_hi.ico","sizes":"72x72 96x96 128x128 256x256"},{"src":"icon/dreamer","sizes":"48x48"}],"theme_color":"#0b7dc2"}
