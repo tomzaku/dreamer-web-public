@@ -1,0 +1,1 @@
+import{a7 as n}from"./mdxeditor-Cxvfqdhz.js";import"./apexcharts-BnXoAgVT.js";function i(s){const r=this;r.parser=t;function t(a){return n(a,{...r.data("settings"),...s,extensions:r.data("micromarkExtensions")||[],mdastExtensions:r.data("fromMarkdownExtensions")||[]})}}export{i as default};
